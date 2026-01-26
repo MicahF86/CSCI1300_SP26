@@ -9,4 +9,6 @@
 * At the end of class, students were asked to modify their original trapezoid script to ask for user input rather than hard coding values.
 
 ## Week 3
-* TBD
+* Substr examples that were shown on the slides on Monday
+* If / Else example that were shown on the Monday slides
+* Monday demo is shown at the end of class
